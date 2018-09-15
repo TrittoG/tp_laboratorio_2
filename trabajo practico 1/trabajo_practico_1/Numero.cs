@@ -9,7 +9,7 @@ namespace trabajo_practico_1
     public class Numero
     {
         /// <summary>
-        /// unico campo de la clase
+        /// unico campo de la clase privado y double
         /// </summary>
         private Double numero;
 

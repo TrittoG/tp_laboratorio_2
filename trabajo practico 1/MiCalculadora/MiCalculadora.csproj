@@ -81,7 +81,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\trabajo_practico_1\trabajo_practico_1.csproj">
-      <Project>{478dbc58-1c2b-4058-80a9-0299af160288}</Project>
+      <Project>{729cd04c-550c-4374-9a7d-d307348e8512}</Project>
       <Name>trabajo_practico_1</Name>
     </ProjectReference>
   </ItemGroup>

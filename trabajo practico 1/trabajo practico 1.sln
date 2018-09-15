@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiCalculadora", "MiCalculadora\MiCalculadora.csproj", "{1438115B-9795-47C8-81D2-946A32759862}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trabajo_practico_1", "trabajo_practico_1\trabajo_practico_1.csproj", "{478DBC58-1C2B-4058-80A9-0299AF160288}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trabajo_practico_1", "trabajo_practico_1\trabajo_practico_1.csproj", "{729CD04C-550C-4374-9A7D-D307348E8512}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{1438115B-9795-47C8-81D2-946A32759862}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1438115B-9795-47C8-81D2-946A32759862}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1438115B-9795-47C8-81D2-946A32759862}.Release|Any CPU.Build.0 = Release|Any CPU
-		{478DBC58-1C2B-4058-80A9-0299AF160288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{478DBC58-1C2B-4058-80A9-0299AF160288}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{478DBC58-1C2B-4058-80A9-0299AF160288}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{478DBC58-1C2B-4058-80A9-0299AF160288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{729CD04C-550C-4374-9A7D-D307348E8512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729CD04C-550C-4374-9A7D-D307348E8512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729CD04C-550C-4374-9A7D-D307348E8512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729CD04C-550C-4374-9A7D-D307348E8512}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
