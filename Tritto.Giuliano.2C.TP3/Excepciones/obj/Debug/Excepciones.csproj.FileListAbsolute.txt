@@ -1,0 +1,6 @@
+C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb

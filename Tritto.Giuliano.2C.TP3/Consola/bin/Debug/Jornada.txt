@@ -1,0 +1,10 @@
+Clase: Programacion
+Profesor: Nombre: Juan
+apellido: Lopez
+Nacionalidad: Argentino
+DNI: 12234456
+Legajo: 1
+CLASES DEL DIA: Legislacion
+CLASES DEL DIA: Programacion
+
+
