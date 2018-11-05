@@ -112,10 +112,12 @@ namespace Clases_Instaniables
         /// <returns></returns>
         public static Jornada operator +(Jornada j, Alumno a)
         {
-            if (j != a)
+            foreach (Alumno al in j.alumnos)
             {
-                j.Alumnos.Add(a);
+                if (al == a)
+                    return j;
             }
+            j.alumnos.Add(a);
             return j;
         }
 
@@ -130,9 +132,10 @@ namespace Clases_Instaniables
             st.AppendLine("Clase: " + this.Clase.ToString());
             st.AppendLine("Profesor: " + this.Instructor.ToString());
 
+            st.AppendLine("Alumno: ");
             foreach (Alumno al in this.Alumnos)
             {
-                st.AppendLine("Alumno: " + al.ToString());
+                st.AppendLine(al.ToString());
             }
 
             return st.ToString();
@@ -142,7 +145,11 @@ namespace Clases_Instaniables
 
 
 
-
+        /// <summary>
+        /// metodo publico que guarda los datos de la jornada en un archivo de texto
+        /// </summary>
+        /// <param name="j"></param>
+        /// <returns></returns>
         public static bool Guardar(Jornada j)
         {
             Texto txt = new Texto();
@@ -150,6 +157,10 @@ namespace Clases_Instaniables
             return txt.Guardar("Jornada.txt", j.ToString());
         }
 
+        /// <summary>
+        /// metodo publico que lee los datos de una jornada de un archivo de texto
+        /// </summary>
+        /// <returns></returns>
         public static string Leer()
         {
             string aux;

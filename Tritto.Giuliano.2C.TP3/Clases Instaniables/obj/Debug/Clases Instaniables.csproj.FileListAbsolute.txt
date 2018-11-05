@@ -11,3 +11,16 @@ C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP3\Clases Instaniables\obj\Debug\Clas
 C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP3\Clases Instaniables\obj\Debug\Clases Instaniables.csproj.CopyComplete
 C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP3\Clases Instaniables\obj\Debug\Clases Instaniables.dll
 C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP3\Clases Instaniables\obj\Debug\Clases Instaniables.pdb
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\Clases Instaniables\bin\Debug\Clases Instaniables.dll
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\Clases Instaniables\bin\Debug\Clases Instaniables.pdb
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\Clases Instaniables\bin\Debug\Archivos.dll
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\Clases Instaniables\bin\Debug\ClasesAbstractas.dll
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\Clases Instaniables\bin\Debug\Excepciones.dll
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\Clases Instaniables\bin\Debug\Archivos.pdb
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\Clases Instaniables\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\Clases Instaniables\bin\Debug\Excepciones.pdb
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\Clases Instaniables\obj\Debug\Clases Instaniables.csprojAssemblyReference.cache
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\Clases Instaniables\obj\Debug\Clases Instaniables.csproj.CoreCompileInputs.cache
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\Clases Instaniables\obj\Debug\Clases Instaniables.csproj.CopyComplete
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\Clases Instaniables\obj\Debug\Clases Instaniables.dll
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\Clases Instaniables\obj\Debug\Clases Instaniables.pdb

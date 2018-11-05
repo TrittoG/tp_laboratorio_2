@@ -72,7 +72,7 @@ namespace Clases_Instaniables
         {
             StringBuilder st = new StringBuilder();
             //no se si se pone el ToString()
-            st.AppendLine("TOMA CLASES DE: " + claseQueToma.ToString());
+            st.AppendLine(" TOMA CLASES DE: " + claseQueToma.ToString());
             return st.ToString();
 
         }
@@ -82,10 +82,7 @@ namespace Clases_Instaniables
         /// </summary>
         /// <returns></returns>
         protected override string MostrarDatos()
-        {
-            StringBuilder st = new StringBuilder();
-
-
+        {         
             return base.MostrarDatos() + this.ParticiparEnClase() + " " + this.estadoCuenta.ToString();
         }
 

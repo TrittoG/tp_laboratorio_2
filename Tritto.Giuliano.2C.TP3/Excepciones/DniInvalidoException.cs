@@ -8,24 +8,43 @@ namespace Excepciones
 {
     public class DniInvalidoException : Exception
     {
-        private string mensajeBase;
+        /// <summary>
+        /// mensaje que se envia
+        /// </summary>
+        private static string mensajeBase = "EL DNI ES INVALIDO";
 
-        public DniInvalidoException()
+        /// <summary>
+        /// constructor sin parametros que llama al this con el mensaje
+        /// </summary>
+        public DniInvalidoException() :this(mensajeBase)
         {
 
         }
 
-        public DniInvalidoException(Exception e)
+        /// <summary>
+        /// constructor que recibe una excepcion y la envia al this junto con el mensaje
+        /// </summary>
+        /// <param name="e"></param>
+        public DniInvalidoException(Exception e) :this(mensajeBase, e)
         {
 
         }
 
-        public DniInvalidoException(string mensaje)
+        /// <summary>
+        /// constructor que recibe un mensaje y lo envia a la base
+        /// </summary>
+        /// <param name="mensaje"></param>
+        public DniInvalidoException(string mensaje) : base(mensaje)
         {
 
         }
 
-        public DniInvalidoException(string mensaje, Exception e)
+        /// <summary>
+        /// constructor que recibe un mensaje y una excepcion y las envia a la base
+        /// </summary>
+        /// <param name="mensaje"></param>
+        /// <param name="e"></param>
+        public DniInvalidoException(string mensaje, Exception e) :base(mensaje,e)
         {
 
         }

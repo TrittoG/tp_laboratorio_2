@@ -74,6 +74,11 @@ namespace Clases_Instaniables
             }
         }
 
+        /// <summary>
+        /// propiedad que retorna una jornada en la posicion i, si la posicion i no existe, toma la ultima posicion valida
+        /// </summary>
+        /// <param name="i"></param>
+        /// <returns></returns>
         public Jornada this[int i]
         {
             get
@@ -121,13 +126,24 @@ namespace Clases_Instaniables
             return false;
         }
 
+        /// <summary>
+        /// sobrecarga del operador != entre universidad y alumno
+        /// </summary>
+        /// <param name="u"></param>
+        /// <param name="a"></param>
+        /// <returns></returns>
         public static bool operator !=(Universidad u, Alumno a)
         {
             return !(u == a);
         }
 
 
-
+        /// <summary>
+        /// sobrecarga del operador == entre universidad y profesor si el profesor esta en la universidad retorna true
+        /// </summary>
+        /// <param name="u">universidad</param>
+        /// <param name="p">profesor</param>
+        /// <returns></returns>
         public static bool operator ==(Universidad u, Profesor p)
         {
             foreach (Profesor pr in u.Instructores)
@@ -140,11 +156,23 @@ namespace Clases_Instaniables
             return false;
         }
 
+        /// <summary>
+        /// sobrecarga del operador != entre universidad y profesor
+        /// </summary>
+        /// <param name="u">universidad</param>
+        /// <param name="p">profesor</param>
+        /// <returns></returns>
         public static bool operator !=(Universidad u, Profesor p)
         {
             return !(u == p);
         }
 
+        /// <summary>
+        /// sobrecarga del operador == entre universidad y clase, retorna el profesor que puede dar la clase
+        /// </summary>
+        /// <param name="u">universidad</param>
+        /// <param name="c">clase</param>
+        /// <returns></returns>
         public static Profesor operator ==(Universidad u, EClases c)
         {
             foreach (Profesor p in u.Instructores)
@@ -157,6 +185,13 @@ namespace Clases_Instaniables
             throw new SinProfesorException();
         }
 
+
+        /// <summary>
+        /// sobrecarga del operador != entre universidad y clase
+        /// </summary>
+        /// <param name="u">universidad</param>
+        /// <param name="c">clase</param>
+        /// <returns></returns>
         public static Profesor operator !=(Universidad u, EClases c)
         {
             foreach (Profesor p in u.Instructores)
@@ -169,7 +204,12 @@ namespace Clases_Instaniables
             throw new SinProfesorException();
         }
 
-
+        /// <summary>
+        /// sobrecarga del operador + entre universidad y clase para agregar una clase
+        /// </summary>
+        /// <param name="u">universidad</param>
+        /// <param name="c">clase</param>
+        /// <returns></returns>
         public static Universidad operator +(Universidad u, EClases c)
         {
             //creo un profesor
@@ -193,6 +233,12 @@ namespace Clases_Instaniables
             return u;
         }
 
+        /// <summary>
+        /// sobrecarga del operador + entre universidad y alumno, para agregar un alumno a la universidad
+        /// </summary>
+        /// <param name="u">universidad</param>
+        /// <param name="a">alumno</param>
+        /// <returns></returns>
         public static Universidad operator +(Universidad u, Alumno a)
         {
             if (u != a)
@@ -203,6 +249,12 @@ namespace Clases_Instaniables
             throw new AlumnoRepetidoException();
         }
 
+        /// <summary>
+        /// sobrecarga del operador + entre universidad y profesor, para agregar un profesor a la universidad
+        /// </summary>
+        /// <param name="u">universidad</param>
+        /// <param name="p">profesor</param>
+        /// <returns></returns>
         public static Universidad operator +(Universidad u, Profesor p)
         {
             if (u != p)
@@ -212,6 +264,11 @@ namespace Clases_Instaniables
             return u;
         }
 
+        /// <summary>
+        /// metodo privado para mostrar los datos de la universidad
+        /// </summary>
+        /// <param name="uni"></param>
+        /// <returns></returns>
         private static string MostrarDatos(Universidad uni)
         {
             StringBuilder st = new StringBuilder();
@@ -242,6 +299,10 @@ namespace Clases_Instaniables
             return st.ToString();
         }
 
+        /// <summary>
+        /// metodo publico para mostrar los datos de la universidad
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             return MostrarDatos(this);
@@ -259,6 +320,12 @@ namespace Clases_Instaniables
             return xml.Guardar("Universidad.xml", uni);
         }
 
+
+        /// <summary>
+        /// metodo que lee una universidad serialiada, recibe una unversidad que la carga y la retorna
+        /// </summary>
+        /// <param name="uni"></param>
+        /// <returns></returns>
         public static Universidad Leer(Universidad uni)
         {
             Xml<Universidad> xml = new Xml<Universidad>();

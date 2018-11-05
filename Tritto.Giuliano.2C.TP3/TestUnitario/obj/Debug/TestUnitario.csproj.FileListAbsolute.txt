@@ -26,3 +26,31 @@ C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP3\TestUnitario\obj\Debug\TestUnitari
 C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP3\TestUnitario\obj\Debug\TestUnitario.csproj.CopyComplete
 C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP3\TestUnitario\obj\Debug\TestUnitario.dll
 C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP3\TestUnitario\obj\Debug\TestUnitario.pdb
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\Archivos.dll
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\Clases Instaniables.dll
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\ClasesAbstractas.dll
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\Consola.exe
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\Excepciones.dll
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\Archivos.pdb
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\Clases Instaniables.pdb
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\Consola.pdb
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\Consola.exe.config
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\Excepciones.pdb
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\obj\Debug\TestUnitario.csprojAssemblyReference.cache
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\obj\Debug\TestUnitario.csproj.CoreCompileInputs.cache
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\obj\Debug\TestUnitario.csproj.CopyComplete
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\Giuli\Desktop\tp_laboratorio_2\Tritto.Giuliano.2C.TP3\TestUnitario\obj\Debug\TestUnitario.pdb
