@@ -1,0 +1,37 @@
+C:\Users\Giuli\source\repos\trabajo practico 1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Giuli\source\repos\trabajo practico 1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Giuli\source\repos\trabajo practico 1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Giuli\source\repos\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Giuli\source\repos\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+C:\Users\Giuli\source\repos\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Giuli\source\repos\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Giuli\source\repos\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Giuli\source\repos\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Giuli\source\repos\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\trabajo practico 1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\trabajo practico 1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\trabajo practico 1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\trabajo practico 1\MiCalculadora\bin\Debug\trabajo_practico_1.exe
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\trabajo practico 1\MiCalculadora\bin\Debug\trabajo_practico_1.pdb
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\trabajo practico 1\MiCalculadora\bin\Debug\trabajo_practico_1.exe.config
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\tp_laboratorio_2\trabajo practico 1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\tp_laboratorio_2\trabajo practico 1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\tp_laboratorio_2\trabajo practico 1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\tp_laboratorio_2\trabajo practico 1\MiCalculadora\bin\Debug\trabajo_practico_1.dll
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\tp_laboratorio_2\trabajo practico 1\MiCalculadora\bin\Debug\trabajo_practico_1.pdb
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\tp_laboratorio_2\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\tp_laboratorio_2\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\tp_laboratorio_2\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\tp_laboratorio_2\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\tp_laboratorio_2\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\tp_laboratorio_2\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\tp_laboratorio_2\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\tp_laboratorio_2\trabajo practico 1\MiCalculadora\obj\Debug\MiCalculadora.pdb

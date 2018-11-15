@@ -1,0 +1,6 @@
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\tp_laboratorio_2\trabajo practico 1\trabajo_practico_1\bin\Debug\trabajo_practico_1.dll
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\tp_laboratorio_2\trabajo practico 1\trabajo_practico_1\bin\Debug\trabajo_practico_1.pdb
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\tp_laboratorio_2\trabajo practico 1\trabajo_practico_1\obj\Debug\trabajo_practico_1.csprojAssemblyReference.cache
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\tp_laboratorio_2\trabajo practico 1\trabajo_practico_1\obj\Debug\trabajo_practico_1.csproj.CoreCompileInputs.cache
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\tp_laboratorio_2\trabajo practico 1\trabajo_practico_1\obj\Debug\trabajo_practico_1.dll
+C:\Users\Giuli\Desktop\Programacion Segundo Cuatrimestre\tp_laboratorio_2\trabajo practico 1\trabajo_practico_1\obj\Debug\trabajo_practico_1.pdb

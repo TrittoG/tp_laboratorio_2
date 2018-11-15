@@ -1,0 +1,6 @@
+C:\Users\Giuli\Desktop\Programacion-II\TP-01-Recuperacion\Giuliano.Tritto.2.C.TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Giuli\Desktop\Programacion-II\TP-01-Recuperacion\Giuliano.Tritto.2.C.TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Giuli\Desktop\Programacion-II\TP-01-Recuperacion\Giuliano.Tritto.2.C.TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Giuli\Desktop\Programacion-II\TP-01-Recuperacion\Giuliano.Tritto.2.C.TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Giuli\Desktop\Programacion-II\TP-01-Recuperacion\Giuliano.Tritto.2.C.TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Giuli\Desktop\Programacion-II\TP-01-Recuperacion\Giuliano.Tritto.2.C.TP1\Entidades\obj\Debug\Entidades.pdb
