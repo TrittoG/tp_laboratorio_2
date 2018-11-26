@@ -1,0 +1,13 @@
+C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP4\MainCorreo\bin\Debug\Clases.dll
+C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP4\MainCorreo\bin\Debug\Clases.pdb
+C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Giuli\Desktop\Tritto.Giuliano.2C.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
